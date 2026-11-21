@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer & ATS Score Checker",
+  "description": "Evaluate PDF resumes against target job descriptions with ATS match scoring, skill gap analysis, and actionable improvement recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
